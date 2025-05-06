@@ -24,7 +24,7 @@ Bot que monitora eventos de pênaltis, VAR e faltas/cartões na área **EM TEMPO
 
 1. **Clone o projeto**:
    ```bash
-   git clone https://github.com/ravivver/Bot-Discord-PENAL.git
+   git clone https://github.com/ravivver/Penalty-Check.git
    cd bot-penaltis
 
 2. **Crie e ative um ambiente virtual (recomendado):**
