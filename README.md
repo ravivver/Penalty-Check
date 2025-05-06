@@ -57,7 +57,7 @@ Você pode ajustar:
 
 # Estrutura de Arquivos
 + main.py - Ponto de entrada do bot
-    + bot/ - Módulo principal
++ bot/ - Módulo principal
     + config.py - Configurações e setup
     + events.py - Lógica de monitoramento de eventos
     + logger.py - Configuração de logs
