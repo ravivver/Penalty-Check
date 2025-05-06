@@ -12,11 +12,11 @@ Bot que monitora eventos de pênaltis, VAR e faltas/cartões na área **EM TEMPO
 
 ## 🛠 Tecnologias utilizadas
 
-- [Python-3.9+] (https://www.python.org/downloads/)
+- [Python-3.9+](https://www.python.org/downloads/)
 - [discord.py](https://discordpy.readthedocs.io/)
 - [aiohttp](https://docs.aiohttp.org/)
 - [python-dotenv](https://github.com/theskumar/python-dotenv)
-- API: [SportMonks Football API](https://sportmonks.com)
+- [SportMonks Football API](https://sportmonks.com)
 
 
 
