@@ -50,7 +50,3 @@ Você pode ajustar:
 + .env - Variáveis de ambiente
 + requirements.txt - Dependências
 
-# Sobre Dependências
-Verifique o arquivo requirements.txt para todas as dependências necessárias...
-
-
