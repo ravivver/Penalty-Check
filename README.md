@@ -6,11 +6,6 @@ Bot que monitora eventos de pênaltis, VAR e faltas/cartões na área **EM TEMPO
 + Faltas e cartões dentro da área
 + Penalidades ordinais (ex: 1st Penalty)
 
-# Observações
-+ O bot salva eventos já notificados para evitar repetição.
-+ Sistema de LOGS completo.
-
-
 ## Como executar
 
 1. **Clone o projeto**:
@@ -57,4 +52,5 @@ Você pode ajustar:
 
 # Sobre Dependências
 Verifique o arquivo requirements.txt para todas as dependências necessárias...
+
 
