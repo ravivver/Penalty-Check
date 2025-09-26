@@ -1,26 +1,17 @@
 # Bot de Monitoramento de Pênaltis no Futebol
 Bot que monitora eventos de pênaltis, VAR e faltas/cartões na área **EM TEMPO REAL** usando a API da SportMonks e notifica em um canal do Discord.
 
-# ❓ **O que o bot detecta?**
+# **O que o bot detecta?**
 + Pênaltis confirmados pelo VAR
 + Faltas e cartões dentro da área
 + Penalidades ordinais (ex: 1st Penalty)
 
-# 🧠 Observações
+# Observações
 + O bot salva eventos já notificados para evitar repetição.
 + Sistema de LOGS completo.
 
-## 🛠 Tecnologias utilizadas
 
-- [Python-3.9+](https://www.python.org/downloads/)
-- [discord.py](https://discordpy.readthedocs.io/)
-- [aiohttp](https://docs.aiohttp.org/)
-- [python-dotenv](https://github.com/theskumar/python-dotenv)
-- [SportMonks Football API](https://sportmonks.com)
-
-
-
-## 🚀 Como executar
+## Como executar
 
 1. **Clone o projeto**:
    ```bash
@@ -66,3 +57,4 @@ Você pode ajustar:
 
 # Sobre Dependências
 Verifique o arquivo requirements.txt para todas as dependências necessárias...
+
